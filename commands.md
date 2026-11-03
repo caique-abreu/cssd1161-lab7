@@ -5,3 +5,5 @@
 - `git commit` saves staged changes in the repository history.
 - `git switch` switches to another branch.
 - `git merge` combines changes from another branch into the current branch.
+- `git push` uploads local commits to a remote repository.
+- `git log` displays the commit history.
